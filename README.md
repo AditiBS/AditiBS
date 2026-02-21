@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src ="https://github.com/user-attachments/assets/934cd08f-4813-403d-ba63-aaf476a5b874" width=200px height=600px>
 <!--
 **AditiBS/AditiBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
